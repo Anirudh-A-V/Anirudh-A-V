@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Anirudh-A-V
-- 👀 I’m interested in Front-end Web Development.
-- 🌱 I’m currently learning Django.
+- I am an Undergrad Computer Science Engineering Student from CET Thiruvananthapuram
+- 👀 I’m interested in Python & Web Development.
+- 🌱 I’m currently learning UI/UX Designing and MongoDB.
 - 💞️ I’m looking to collaborate on GitHub and Hackathons
 - 📫 How to reach me anirudh.av02@gmail.com
 
