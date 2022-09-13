@@ -6,6 +6,8 @@
 - 📫 How to reach me anirudh.av02@gmail.com, or 
   - you can also approach me through linkedIn -> https://www.linkedin.com/in/anirudh-a-v-920858221/
 </br> -->
+
+
 <h1 align="center">Hey there, I'm Anirudh A V <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 
 
@@ -21,6 +23,7 @@
 </div>
 <!-- [![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anirudh-A-V&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<h3 align="center">:chart_with_upwards_trend: My Stats</h3>
 <p align="center">
   <a href="#">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anirudh-A-V"/>
@@ -28,6 +31,15 @@
 </p>
 
 </br>
+
+
+<h2 align="center">Technologies I use</h2>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,py,c,java,bootstrap,django,flask,nodejs,express,firebase,vite,git,github,heroku,linux,mysql,sqlite,mongodb,figma,vscode,atom&perline=8" />
+  </a>
+</p>
 <!---
 Anirudh-A-V/Anirudh-A-V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
