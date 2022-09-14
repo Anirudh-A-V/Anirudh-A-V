@@ -10,7 +10,7 @@
 
 <h1 align="center">Hey there, I'm Anirudh A V <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 
-
+<br>
 <h2 align="center"> 📖 About me</h2>
 <div align="center">
 
@@ -19,9 +19,7 @@
 💞️ I’m looking to collaborate on GitHub and Hackathons<br>
 🎓 I'm a Computer Science student (graduating in October 2024)<br>
 🌐 You can see some of my projects on [my portfolio](#)<br>
-
 </div>
-
 
 <h3 align="center">:chart_with_upwards_trend: My Stats</h3>
 <p align="center">
@@ -30,7 +28,8 @@
   </a>
 </p>
 
-</br>
+
+<br>
 
 
 <h2 align="center">Technologies I use</h2>
@@ -41,10 +40,31 @@
   </a>
 </p>
 
+
+<br>
+
+
+<h3 align="center">Get in touch with me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anirudh-a-v-920858221/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:anirudh.av02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/anirudh_av02"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  
+  <!---
+  <a href=""><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href=""><img src="https://img.shields.io/badge/Linktree-39E09B.svg?style=for-the-badge&logo=Linktree&logoColor=white"></a>
+  --->
+
+</p>
+
+
+
+
+
+
 <!---
 [![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anirudh-A-V&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 --->
-<!---
-Anirudh-A-V/Anirudh-A-V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
