@@ -21,7 +21,7 @@
 🌐 You can see some of my projects on [my portfolio](#)<br>
 
 </div>
-<!-- [![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anirudh-A-V&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 <h3 align="center">:chart_with_upwards_trend: My Stats</h3>
 <p align="center">
@@ -40,6 +40,10 @@
     <img src="https://skillicons.dev/icons?i=react,js,html,css,py,c,java,bootstrap,django,flask,nodejs,express,firebase,vite,git,github,heroku,linux,mysql,sqlite,mongodb,figma,vscode,atom&perline=8" />
   </a>
 </p>
+
+<!---
+[![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anirudh-A-V&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+--->
 <!---
 Anirudh-A-V/Anirudh-A-V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
