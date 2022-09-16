@@ -16,7 +16,7 @@
 
 💻 I'm a ReactJS Developer<br>
 🎨 I'm a Python Enthusiast<br>
-💞️ I’m looking to collaborate on GitHub and Hackathons<br>
+💞️ Looking to collaborate on GitHub and Hackathons<br>
 🎓 I'm a Computer Science student (graduating in October 2024)<br>
 🌐 You can see some of my projects on [my portfolio](#)<br>
 </div>
