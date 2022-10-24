@@ -50,13 +50,9 @@
 </p>
               
 
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Anirudh-A-V&rank=-C,-B&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-<!---
-[![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anirudh-A-V&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
---->
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Anirudh-A-V&rank=-C,-B&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
