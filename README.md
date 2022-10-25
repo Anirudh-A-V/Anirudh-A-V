@@ -22,7 +22,7 @@
 <br>
 
 
-<h2 align="center">Technologies I use</h2>
+<h2 align="center">:sparkles: Technologies I use</h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -32,6 +32,24 @@
 
 
 <br>
+
+<div align="center">
+<h2>:man_technologist: My Wakatime</h2>
+<!--START_SECTION:waka-->
+
+```text
+Total Time: 77 hrs 51 mins
+
+JavaScript   39 hrs 13 mins  ████████████▓░░░░░░░░░░░░   50.37 %
+C            10 hrs 48 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
+CSS          6 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+SCSS         4 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+Python       3 hrs 16 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+V            2 hrs 10 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+```
+
+<!--END_SECTION:waka-->
+</div>
 
 
 <h3 align="center">Get in touch with me</h3>
@@ -49,21 +67,6 @@
 
 </p>
               
-
-<!--START_SECTION:waka-->
-
-```text
-Total Time: 77 hrs 51 mins
-
-JavaScript   39 hrs 13 mins  ████████████▓░░░░░░░░░░░░   50.37 %
-C            10 hrs 48 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
-CSS          6 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
-SCSS         4 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-Python       3 hrs 16 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-V            2 hrs 10 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-```
-
-<!--END_SECTION:waka-->
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Anirudh-A-V&rank=-C,-B&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
