@@ -51,6 +51,18 @@
               
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 77 hrs 51 mins
+
+JavaScript   39 hrs 13 mins  ████████████▓░░░░░░░░░░░░   50.37 %
+C            10 hrs 48 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
+CSS          6 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+SCSS         4 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+Python       3 hrs 16 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+V            2 hrs 10 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+```
+
 <!--END_SECTION:waka-->
 
 
