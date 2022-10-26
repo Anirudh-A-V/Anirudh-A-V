@@ -2,6 +2,8 @@ name: Waka Readme
 
 on:
   workflow_dispatch: # for manual workflow trigger
+  push:
+    branches: [master]
   schedule:
     - cron: '0 0 * * *' # runs at every 12AM UTC
 
