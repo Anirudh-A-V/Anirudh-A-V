@@ -8,7 +8,7 @@
 🎨 I'm a Python Enthusiast<br>
 💞️ Looking to collaborate on GitHub and Hackathons<br>
 🎓 I'm a Computer Science student (graduating in October 2024)<br>
-🌐 You can see some of my projects on [my portfolio](#)<br>
+🌐 You can see some of my projects on [my portfolio](https://iamanirudhav.vercel.app/)<br>
 </div>
 
 <h3 align="center">:chart_with_upwards_trend: My Stats</h3>
