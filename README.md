@@ -53,6 +53,10 @@ V            2 hrs 10 mins   ▓░░░░░░░░░░░░░░░░
 </div>
 
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <h3 align="center">Get in touch with me</h3>
 
 <p align="center">
