@@ -53,19 +53,6 @@ Git          2 hrs 12 mins   ▓░░░░░░░░░░░░░░░░
 </div>
 
 
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)
-2. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)
-3. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)
-4. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)
-5. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 28th, 2022, 5:21:31 AM
-<!--RECENT_ACTIVITY:last_update_end-->
-
-
 <h3 align="center">Get in touch with me</h3>
 
 <p align="center">
@@ -82,6 +69,20 @@ Last Updated: Friday, October 28th, 2022, 5:21:31 AM
 </p>
               
 
+<div align="center">
+<h3>:man_technologist: My Recent Activity</h3>
+<!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)
+2. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)
+3. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)
+4. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)
+5. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)
+<!--RECENT_ACTIVITY:end-->
+
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Friday, October 28th, 2022, 5:21:31 AM
+<!--RECENT_ACTIVITY:last_update_end-->
+</div>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Anirudh-A-V&rank=-C,-B&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
