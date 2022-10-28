@@ -69,7 +69,7 @@ Git          2 hrs 12 mins   ▓░░░░░░░░░░░░░░░░
 </p>
               
 
-<h3>:man_technologist: My Recent Activity</h3>
+<h3>:information_desk_person: My Recent Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)
