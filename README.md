@@ -53,17 +53,11 @@ Git          2 hrs 12 mins   ▓░░░░░░░░░░░░░░░░
 </div>
 
 
-<div align="center">
-<!-- <h2>:man_technologist: My Wakatime</h2> -->
+
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Anirudh-A-V/Anirudh-A-V/pull/1) in [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)
-2. 💪 Opened PR [#1](https://github.com/Anirudh-A-V/Anirudh-A-V/pull/1) in [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)
-3. 💪 Opened PR [#34](https://github.com/EETIC/eetic-website/pull/34) in [EETIC/eetic-website](https://github.com/EETIC/eetic-website)
-4. 💪 Opened PR [#33](https://github.com/EETIC/eetic-website/pull/33) in [EETIC/eetic-website](https://github.com/EETIC/eetic-website)
-5. 💪 Opened PR [#71](https://github.com/shankarlohar/Hacktober-Fests/pull/71) in [shankarlohar/Hacktober-Fests](https://github.com/shankarlohar/Hacktober-Fests)
-6. ❌ Closed PR [#70](https://github.com/shankarlohar/Hacktober-Fests/pull/70) in [shankarlohar/Hacktober-Fests](https://github.com/shankarlohar/Hacktober-Fests)
+
 <!--END_SECTION:activity-->
-</div>
+
 
 <h3 align="center">Get in touch with me</h3>
 
