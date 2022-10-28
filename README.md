@@ -53,9 +53,11 @@ Git          2 hrs 12 mins   ▓░░░░░░░░░░░░░░░░
 </div>
 
 
+<div align="center">
+<!-- <h2>:man_technologist: My Wakatime</h2> -->
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
+</div>
 
 <h3 align="center">Get in touch with me</h3>
 
