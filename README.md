@@ -72,15 +72,15 @@ Git          2 hrs 12 mins   ▓░░░░░░░░░░░░░░░░
 <h3>:information_desk_person: My Recent Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)
-2. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)
-3. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)
-4. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)
+1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/admin-panel](https://github.com/Anirudh-A-V/admin-panel)
+2. ⬆️ Pushed 4 commit(s) to [Anirudh-A-V/admin-panel](https://github.com/Anirudh-A-V/admin-panel)
+3. ⬆️ Pushed 3 commit(s) to [Anirudh-A-V/admin-panel](https://github.com/Anirudh-A-V/admin-panel)
+4. ⬆️ Pushed 3 commit(s) to [Anirudh-A-V/admin-panel](https://github.com/Anirudh-A-V/admin-panel)
 5. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 28th, 2022, 5:21:31 AM
+Last Updated: Friday, October 28th, 2022, 12:25:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
