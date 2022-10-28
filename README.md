@@ -53,10 +53,9 @@ Git          2 hrs 12 mins   ▓░░░░░░░░░░░░░░░░
 </div>
 
 
+<!--RECENT_ACTIVITY:start-->
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
 
 
 <h3 align="center">Get in touch with me</h3>
