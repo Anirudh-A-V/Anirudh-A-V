@@ -31,27 +31,18 @@
   </a>
 </p>
 
-
 <br>
 
 <div align="center">
-<h2>:man_technologist: My Wakatime</h2>
-<!--START_SECTION:waka-->
-
-```text
-Total Time: 86 hrs 3 mins
-
-JavaScript   46 hrs 8 mins   █████████████▒░░░░░░░░░░░   53.62 %
-C            10 hrs 48 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-CSS          6 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-SCSS         4 hrs 41 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-Python       3 hrs 16 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-Git          2 hrs 14 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-```
-
-<!--END_SECTION:waka-->
+<h3>:man_technologist: My Wakatime</h3>
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Anirudh_A_V&layout=compact&border_radius=5&theme=default" />
+  </a>
+</p>
 </div>
 
+<br>
 
 <h3 align="center">Get in touch with me</h3>
 
