@@ -72,15 +72,15 @@ Git          2 hrs 14 mins   ▓░░░░░░░░░░░░░░░░
 <h3>:information_desk_person: My Recent Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/InstaG](https://github.com/Anirudh-A-V/InstaG)
-2. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/InstaG](https://github.com/Anirudh-A-V/InstaG)
-3. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)
-4. 🎉 Merged PR [#6](https://github.com/Anirudh-A-V/Dynamic_Portfolio/pull/6) in [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)
-5. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)
+1. ⬆️ Pushed 3 commit(s) to [iedc-cet/IEDC-website](https://github.com/iedc-cet/IEDC-website)
+2. 🎉 Merged PR [#6](https://github.com/iedc-cet/IEDC-website/pull/6) in [iedc-cet/IEDC-website](https://github.com/iedc-cet/IEDC-website)
+3. 🔱 Forked [Anirudh-A-V/TinkerhubCET](https://github.com/Anirudh-A-V/TinkerhubCET) from [Amruthdd/TinkerhubCET](https://github.com/Amruthdd/TinkerhubCET)
+4. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)
+5. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 30th, 2022, 1:10:50 AM
+Last Updated: Sunday, October 30th, 2022, 12:22:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
