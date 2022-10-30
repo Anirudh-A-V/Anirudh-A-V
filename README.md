@@ -72,15 +72,15 @@ Git          2 hrs 14 mins   ▓░░░░░░░░░░░░░░░░
 <h3>:information_desk_person: My Recent Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/InstaG](https://github.com/Anirudh-A-V/InstaG)
-2. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)
-3. 🎉 Merged PR [#6](https://github.com/Anirudh-A-V/Dynamic_Portfolio/pull/6) in [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)
-4. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)
-5. 🎉 Merged PR [#7](https://github.com/Anirudh-A-V/Dynamic_Portfolio/pull/7) in [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)
+1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/InstaG](https://github.com/Anirudh-A-V/InstaG)
+2. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/InstaG](https://github.com/Anirudh-A-V/InstaG)
+3. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)
+4. 🎉 Merged PR [#6](https://github.com/Anirudh-A-V/Dynamic_Portfolio/pull/6) in [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)
+5. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 29th, 2022, 12:20:19 PM
+Last Updated: Sunday, October 30th, 2022, 1:10:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
