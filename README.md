@@ -63,15 +63,15 @@
 <h3>:information_desk_person: My Recent Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [iedc-cet/IEDC-website](https://github.com/iedc-cet/IEDC-website)
-2. 🎉 Merged PR [#6](https://github.com/iedc-cet/IEDC-website/pull/6) in [iedc-cet/IEDC-website](https://github.com/iedc-cet/IEDC-website)
-3. 🔱 Forked [Anirudh-A-V/TinkerhubCET](https://github.com/Anirudh-A-V/TinkerhubCET) from [Amruthdd/TinkerhubCET](https://github.com/Amruthdd/TinkerhubCET)
-4. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)
-5. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)
+1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)
+2. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/github-readme-stats](https://github.com/Anirudh-A-V/github-readme-stats)
+3. 🔱 Forked [Anirudh-A-V/github-readme-stats](https://github.com/Anirudh-A-V/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+4. ⬆️ Pushed 2 commit(s) to [iedc-cet-profile/IEDC-website](https://github.com/iedc-cet-profile/IEDC-website)
+5. 🎉 Merged PR [#7](https://github.com/iedc-cet-profile/IEDC-website/pull/7) in [iedc-cet-profile/IEDC-website](https://github.com/iedc-cet-profile/IEDC-website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 30th, 2022, 12:22:11 PM
+Last Updated: Monday, October 31st, 2022, 1:12:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
