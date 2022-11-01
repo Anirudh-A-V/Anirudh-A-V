@@ -63,15 +63,15 @@
 <h3>:information_desk_person: My Recent Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)
-2. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/github-readme-stats](https://github.com/Anirudh-A-V/github-readme-stats)
-3. 🔱 Forked [Anirudh-A-V/github-readme-stats](https://github.com/Anirudh-A-V/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. ⬆️ Pushed 2 commit(s) to [iedc-cet-profile/IEDC-website](https://github.com/iedc-cet-profile/IEDC-website)
-5. 🎉 Merged PR [#7](https://github.com/iedc-cet-profile/IEDC-website/pull/7) in [iedc-cet-profile/IEDC-website](https://github.com/iedc-cet-profile/IEDC-website)
+1. ⬆️ Pushed 2 commit(s) to [EETIC/eetic-website](https://github.com/EETIC/eetic-website)
+2. ⬆️ Pushed 1 commit(s) to [EETIC/eetic-website](https://github.com/EETIC/eetic-website)
+3. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)
+4. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/github-readme-stats](https://github.com/Anirudh-A-V/github-readme-stats)
+5. 🔱 Forked [Anirudh-A-V/github-readme-stats](https://github.com/Anirudh-A-V/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 1st, 2022, 1:15:37 AM
+Last Updated: Tuesday, November 1st, 2022, 12:27:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
