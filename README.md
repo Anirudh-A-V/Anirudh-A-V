@@ -63,15 +63,15 @@
 <h3>:information_desk_person: My Recent Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#26](https://github.com/DSC-COEA-Ambajogai/Hacktoberfest2021/pull/26) in [DSC-COEA-Ambajogai/Hacktoberfest2021](https://github.com/DSC-COEA-Ambajogai/Hacktoberfest2021)
-2. 🔱 Forked [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website) from [IEDC-CET/IEDC-website](https://github.com/IEDC-CET/IEDC-website)
-3. ⬆️ Pushed 2 commit(s) to [EETIC/eetic-website](https://github.com/EETIC/eetic-website)
-4. ⬆️ Pushed 1 commit(s) to [EETIC/eetic-website](https://github.com/EETIC/eetic-website)
-5. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)
+1. 🔱 Forked [Anirudh-A-V/bintojoseph](https://github.com/Anirudh-A-V/bintojoseph) from [bintojoseph/bintojoseph](https://github.com/bintojoseph/bintojoseph)
+2. ❌ Closed PR [#26](https://github.com/DSC-COEA-Ambajogai/Hacktoberfest2021/pull/26) in [DSC-COEA-Ambajogai/Hacktoberfest2021](https://github.com/DSC-COEA-Ambajogai/Hacktoberfest2021)
+3. 🔱 Forked [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website) from [IEDC-CET/IEDC-website](https://github.com/IEDC-CET/IEDC-website)
+4. ⬆️ Pushed 2 commit(s) to [EETIC/eetic-website](https://github.com/EETIC/eetic-website)
+5. ⬆️ Pushed 1 commit(s) to [EETIC/eetic-website](https://github.com/EETIC/eetic-website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 2nd, 2022, 12:26:05 PM
+Last Updated: Thursday, November 3rd, 2022, 1:03:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
