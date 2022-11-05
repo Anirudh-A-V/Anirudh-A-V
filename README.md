@@ -62,18 +62,8 @@
 
 <h3>:information_desk_person: My Recent Activity</h3>
 
-<!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Anirudh-A-V/bintojoseph](https://github.com/Anirudh-A-V/bintojoseph) from [bintojoseph/bintojoseph](https://github.com/bintojoseph/bintojoseph)
-2. ❌ Closed PR [#26](https://github.com/DSC-COEA-Ambajogai/Hacktoberfest2021/pull/26) in [DSC-COEA-Ambajogai/Hacktoberfest2021](https://github.com/DSC-COEA-Ambajogai/Hacktoberfest2021)
-3. 🔱 Forked [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website) from [IEDC-CET/IEDC-website](https://github.com/IEDC-CET/IEDC-website)
-4. ⬆️ Pushed 2 commit(s) to [EETIC/eetic-website](https://github.com/EETIC/eetic-website)
-5. ⬆️ Pushed 1 commit(s) to [EETIC/eetic-website](https://github.com/EETIC/eetic-website)
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 3rd, 2022, 12:22:03 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Anirudh-A-V&rank=-C,-B&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
