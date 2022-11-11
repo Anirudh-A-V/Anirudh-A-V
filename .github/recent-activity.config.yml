@@ -1,6 +1,6 @@
 settings:
   readme_file: "./TEMPLATE.md"
-  max_lines: 7
+  max_lines: 10
   #   commit_name: "abhijoshi2k"
   #   commit_email: "abhijoshi2k@gmail.com"
   disabled_events:
@@ -10,17 +10,17 @@ settings:
     timezone: "Asia/Kolkata"
     text: '<p align="center">Last refresh: <b>{DATE} IST</b>'
 messages:
-  comments: "💬 Commented on {ID} in {REPO}"
-  issue_opened: "❗️ Opened issue {ID} in {REPO}"
-  issue_closed: "✔️ Closed issue {ID} in {REPO}"
-  pr_opened: "💪 Opened PR {ID} in {REPO}"
-  pr_closed: "❌ Closed PR {ID} in {REPO}"
-  pr_merged: "🎉 Merged PR {ID} in {REPO}"
-  create_repo: "📔 Created new repository {REPO}"
-  fork_repo: "🔱 Forked {FORK} from {REPO}"
-  wiki_create: "📖 Created new wiki page {WIKI} in {REPO}"
-  added_member: "🤝 Became collaborator on {REPO}"
-  changes_approved: "👍 Approved {ID} in {REPO}"
-  changes_requested: "🔴 Requested changes in {ID} in {REPO}"
-  new_release: "✌️ Released {ID} in {REPO}"
-  new_star: "⭐ Starred {REPO}"
+  comments: "![comment] Commented on {ID} in {REPO}"
+  issue_opened: "![issueOpened] Opened issue {ID} in {REPO}"
+  issue_closed: "![issueClosed] Closed issue {ID} in {REPO}"
+  pr_opened: "![pullrequestopened] Opened PR {ID} in {REPO}"
+  pr_closed: "![pullrequestclosed] Closed PR {ID} in {REPO}"
+  pr_merged: "![pullrequestmerged] Merged PR {ID} in {REPO}"
+  create_repo: "![repoCreated] Created new repository {REPO}"
+  fork_repo: "![fork] Forked {FORK} from {REPO}"
+  wiki_create: "![wiki] Created new wiki page {WIKI} in {REPO}"
+  changes_approved: "![approved] Approved {ID} in {REPO}"
+  changes_requested: "![changesRequested] Requested {AMOUNT} change(s) for {ID} in {REPO}"
+  new_release: "![release] Released {ID} in {REPO}"
+  new_star: "![star] Starred {REPO}"
+  added_member: "![people] Became collaborator on {REPO}"
