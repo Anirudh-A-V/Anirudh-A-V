@@ -1,17 +1,14 @@
 settings:
-  username: "Anirudh-A-V" # Replace with your username or comment out this line
-  commit_msg: "⚡ Update README with the recent activity"
-  max_lines: 5
   readme_file: "./TEMPLATE.md"
+  max_lines: 7
+  #   commit_name: "abhijoshi2k"
+  #   commit_email: "abhijoshi2k@gmail.com"
   disabled_events:
     - "comments"
-  url_text: "{REPO}{ID}"
+    - "push"
   date:
-    timezone: "GMT+00:00"
-    text: "Last Updated: {DATE}"
-    format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
-  commit_name: "readme-bot"
-  commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
+    timezone: "Asia/Kolkata"
+    text: '<p align="center">Last refresh: <b>{DATE} IST</b>'
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   issue_opened: "❗️ Opened issue {ID} in {REPO}"
