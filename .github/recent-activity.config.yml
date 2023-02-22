@@ -2,7 +2,7 @@ settings:
   username: "Anirudh-A-V" # Replace with your username or comment out this line
   commit_msg: "⚡ Update README with the recent activity"
   max_lines: 5
-  readme_file: "./TEMPLATE.md"
+  readme_file: "./README.md"
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+05:30"
