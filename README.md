@@ -62,7 +62,7 @@
 
 <h3>:information_desk_person: My Recent Activity</h3>
 
-<<!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
