@@ -62,12 +62,9 @@
 
 <h3>:information_desk_person: My Recent Activity</h3>
 
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Anirudh-A-V/internship-cell-backend/pull/1) in [Anirudh-A-V/internship-cell-backend](https://github.com/Anirudh-A-V/internship-cell-backend)
-2. 🎉 Merged PR [#1](https://github.com/Anirudh-A-V/internship-cell-frontend/pull/1) in [Anirudh-A-V/internship-cell-frontend](https://github.com/Anirudh-A-V/internship-cell-frontend)
-3. 💪 Opened PR [#1](https://github.com/Anirudh-A-V/internship-cell-frontend/pull/1) in [Anirudh-A-V/internship-cell-frontend](https://github.com/Anirudh-A-V/internship-cell-frontend)
-4. 💪 Opened PR [#2](https://github.com/internship-cell-cet/website-frontend/pull/2) in [internship-cell-cet/website-frontend](https://github.com/internship-cell-cet/website-frontend)
-5. 🎉 Merged PR [#1](https://github.com/Anirudh-A-V/admin-panel-eetic/pull/1) in [Anirudh-A-V/admin-panel-eetic](https://github.com/Anirudh-A-V/admin-panel-eetic)
-<!--END_SECTION:activity-->
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 
