@@ -5,9 +5,9 @@ settings:
   readme_file: "./TEMPLATE.md"
   url_text: "{REPO}{ID}"
   date:
-    timezone: "GMT+00:00"
+    timezone: "GMT+05:30"
     text: "Last Updated: {DATE}"
-    format: "dddd, mmmm dS, yyyy, hh:MM TT"
+    format: "mmmm dS, yyyy, hh:MM TT"
   commit_name: "readme-bot"
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
   line_prefix: "{NUM}. "
