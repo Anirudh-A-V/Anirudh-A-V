@@ -63,6 +63,19 @@
 <h3>:information_desk_person: My Recent Activity</h3>
 
 <!--RECENT_ACTIVITY:start-->
+1. ![repoCreated] Created new repository [Anirudh-A-V/To-do-List](https://github.com/Anirudh-A-V/To-do-List)<br>
+2. ![repoCreated] Created new repository [Anirudh-A-V/Take-Notes-React-Native-App](https://github.com/Anirudh-A-V/Take-Notes-React-Native-App)<br>
+3. ![repoCreated] Created new repository [Anirudh-A-V/audio-record](https://github.com/Anirudh-A-V/audio-record)<br>
+4. ![repoCreated] Created new repository [Anirudh-A-V/js-counter](https://github.com/Anirudh-A-V/js-counter)<br>
+5. ![repoCreated] Created new repository [Anirudh-A-V/DMBS_Lab](https://github.com/Anirudh-A-V/DMBS_Lab)<br>
+6. ![pullrequestopened] Opened PR [#1](https://github.com/Anirudh-A-V/internship-cell-backend/pull/1) in [Anirudh-A-V/internship-cell-backend](https://github.com/Anirudh-A-V/internship-cell-backend)<br>
+7. ![pullrequestmerged] Merged PR [#1](https://github.com/Anirudh-A-V/internship-cell-frontend/pull/1) in [Anirudh-A-V/internship-cell-frontend](https://github.com/Anirudh-A-V/internship-cell-frontend)<br>
+8. ![pullrequestopened] Opened PR [#1](https://github.com/Anirudh-A-V/internship-cell-frontend/pull/1) in [Anirudh-A-V/internship-cell-frontend](https://github.com/Anirudh-A-V/internship-cell-frontend)<br>
+9. ![pullrequestopened] Opened PR [#2](https://github.com/internship-cell-cet/website-frontend/pull/2) in [internship-cell-cet/website-frontend](https://github.com/internship-cell-cet/website-frontend)<br>
+10. ![people] Became collaborator on [Anirudh-A-V/internship-cell-frontend](https://github.com/Anirudh-A-V/internship-cell-frontend)<br>
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+<p align="center">Last refresh: <b>Wednesday, February 22nd, 2023, 7:12:48 PM IST</b>
+<!--RECENT_ACTIVITY:last_update_end-->
 
