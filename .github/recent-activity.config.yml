@@ -3,18 +3,14 @@ settings:
   commit_msg: "⚡ Update README with the recent activity"
   max_lines: 5
   readme_file: "./TEMPLATE.md"
-  disabled_events:
-    - "comments"
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+00:00"
     text: "Last Updated: {DATE}"
-    format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
+    format: "dddd, mmmm dS, yyyy, hh:MM TT"
   commit_name: "readme-bot"
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
   line_prefix: "{NUM}. "
-  ignored_repos:
-    - username/repo
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
