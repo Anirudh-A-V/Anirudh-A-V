@@ -64,15 +64,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Anirudh-A-V/quote_generator](https://github.com/Anirudh-A-V/quote_generator)<br>
-2. 🎉 Merged PR [#4](https://github.com/Anirudh-A-V/To-do-List/pull/4) in [Anirudh-A-V/To-do-List](https://github.com/Anirudh-A-V/To-do-List)<br>
-3. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/To-do-List](https://github.com/Anirudh-A-V/To-do-List)<br>
-4. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/To-do-List](https://github.com/Anirudh-A-V/To-do-List)<br>
-5. ⬆️ Pushed 5 commit(s) to [Anirudh-A-V/To-do-List](https://github.com/Anirudh-A-V/To-do-List)<br>
+1. ⬆️ Pushed 3 commit(s) to [Anirudh-A-V/quote_generator](https://github.com/Anirudh-A-V/quote_generator)<br>
+2. ⬆️ Pushed 5 commit(s) to [Anirudh-A-V/quote_generator](https://github.com/Anirudh-A-V/quote_generator)<br>
+3. 📔 Created new repository [Anirudh-A-V/quote_generator](https://github.com/Anirudh-A-V/quote_generator)<br>
+4. 🎉 Merged PR [#4](https://github.com/Anirudh-A-V/To-do-List/pull/4) in [Anirudh-A-V/To-do-List](https://github.com/Anirudh-A-V/To-do-List)<br>
+5. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/To-do-List](https://github.com/Anirudh-A-V/To-do-List)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: February 27th, 2023, 12:09 AM
+Last Updated: February 27th, 2023, 12:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
