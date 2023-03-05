@@ -65,14 +65,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/open-resume-analyzer](https://github.com/Anirudh-A-V/open-resume-analyzer)<br>
-2. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/open-resume-analyzer](https://github.com/Anirudh-A-V/open-resume-analyzer)<br>
+2. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)<br>
 3. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/open-resume-analyzer](https://github.com/Anirudh-A-V/open-resume-analyzer)<br>
-4. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/open-resume-analyzer](https://github.com/Anirudh-A-V/open-resume-analyzer)<br>
-5. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/open-resume-analyzer](https://github.com/Anirudh-A-V/open-resume-analyzer)<br>
+4. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/open-resume-analyzer](https://github.com/Anirudh-A-V/open-resume-analyzer)<br>
+5. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/open-resume-analyzer](https://github.com/Anirudh-A-V/open-resume-analyzer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: March 5th, 2023, 04:08 PM
+Last Updated: March 5th, 2023, 04:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
