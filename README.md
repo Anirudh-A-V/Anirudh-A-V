@@ -64,15 +64,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/Malayalam-ASR-Interface](https://github.com/Anirudh-A-V/Malayalam-ASR-Interface)<br>
-2. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/quote_generator](https://github.com/Anirudh-A-V/quote_generator)<br>
-3. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/quote_generator](https://github.com/Anirudh-A-V/quote_generator)<br>
-4. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/open-resume-analyzer](https://github.com/Anirudh-A-V/open-resume-analyzer)<br>
-5. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/open-resume-analyzer](https://github.com/Anirudh-A-V/open-resume-analyzer)<br>
+1. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/Leads4Needs-internshiptask](https://github.com/Anirudh-A-V/Leads4Needs-internshiptask)<br>
+2. 🎉 Merged PR [#3](https://github.com/Anirudh-A-V/Leads4Needs-internshiptask/pull/3) in [Anirudh-A-V/Leads4Needs-internshiptask](https://github.com/Anirudh-A-V/Leads4Needs-internshiptask)<br>
+3. 💪 Opened PR [#3](https://github.com/Anirudh-A-V/Leads4Needs-internshiptask/pull/3) in [Anirudh-A-V/Leads4Needs-internshiptask](https://github.com/Anirudh-A-V/Leads4Needs-internshiptask)<br>
+4. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/Malayalam-ASR-Interface](https://github.com/Anirudh-A-V/Malayalam-ASR-Interface)<br>
+5. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/quote_generator](https://github.com/Anirudh-A-V/quote_generator)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: March 11th, 2023, 08:06 PM
+Last Updated: March 11th, 2023, 08:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
