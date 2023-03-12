@@ -64,15 +64,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)<br>
-2. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/Leads4Needs-internshiptask](https://github.com/Anirudh-A-V/Leads4Needs-internshiptask)<br>
-3. 🎉 Merged PR [#3](https://github.com/Anirudh-A-V/Leads4Needs-internshiptask/pull/3) in [Anirudh-A-V/Leads4Needs-internshiptask](https://github.com/Anirudh-A-V/Leads4Needs-internshiptask)<br>
-4. 💪 Opened PR [#3](https://github.com/Anirudh-A-V/Leads4Needs-internshiptask/pull/3) in [Anirudh-A-V/Leads4Needs-internshiptask](https://github.com/Anirudh-A-V/Leads4Needs-internshiptask)<br>
-5. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/Malayalam-ASR-Interface](https://github.com/Anirudh-A-V/Malayalam-ASR-Interface)<br>
+1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Malayalam-ASR-Interface](https://github.com/Anirudh-A-V/Malayalam-ASR-Interface)<br>
+2. ⬆️ Pushed 7 commit(s) to [Anirudh-A-V/Malayalam-ASR-Interface](https://github.com/Anirudh-A-V/Malayalam-ASR-Interface)<br>
+3. ⭐ Starred [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)<br>
+4. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/Leads4Needs-internshiptask](https://github.com/Anirudh-A-V/Leads4Needs-internshiptask)<br>
+5. 🎉 Merged PR [#3](https://github.com/Anirudh-A-V/Leads4Needs-internshiptask/pull/3) in [Anirudh-A-V/Leads4Needs-internshiptask](https://github.com/Anirudh-A-V/Leads4Needs-internshiptask)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: March 12th, 2023, 07:06 PM
+Last Updated: March 12th, 2023, 07:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
