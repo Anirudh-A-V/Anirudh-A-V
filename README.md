@@ -64,15 +64,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 21 commit(s) to [Anirudh-A-V/ConnectU](https://github.com/Anirudh-A-V/ConnectU)<br>
-2. 📔 Created new repository [Anirudh-A-V/ConnectU](https://github.com/Anirudh-A-V/ConnectU)<br>
-3. ⬆️ Pushed 3 commit(s) to [Anirudh-A-V/Malayalam-ASR-Interface](https://github.com/Anirudh-A-V/Malayalam-ASR-Interface)<br>
+1. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/ConnectU](https://github.com/Anirudh-A-V/ConnectU)<br>
+2. ⬆️ Pushed 21 commit(s) to [Anirudh-A-V/ConnectU](https://github.com/Anirudh-A-V/ConnectU)<br>
+3. 📔 Created new repository [Anirudh-A-V/ConnectU](https://github.com/Anirudh-A-V/ConnectU)<br>
 4. ⬆️ Pushed 3 commit(s) to [Anirudh-A-V/Malayalam-ASR-Interface](https://github.com/Anirudh-A-V/Malayalam-ASR-Interface)<br>
-5. ⬆️ Pushed 4 commit(s) to [Anirudh-A-V/Malayalam-ASR-Interface](https://github.com/Anirudh-A-V/Malayalam-ASR-Interface)<br>
+5. ⬆️ Pushed 3 commit(s) to [Anirudh-A-V/Malayalam-ASR-Interface](https://github.com/Anirudh-A-V/Malayalam-ASR-Interface)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: March 15th, 2023, 01:08 AM
+Last Updated: March 15th, 2023, 01:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
