@@ -64,15 +64,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/ConnectU](https://github.com/Anirudh-A-V/ConnectU)<br>
-2. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/ConnectU](https://github.com/Anirudh-A-V/ConnectU)<br>
-3. ⬆️ Pushed 5 commit(s) to [Anirudh-A-V/ConnectU](https://github.com/Anirudh-A-V/ConnectU)<br>
-4. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/ConnectU](https://github.com/Anirudh-A-V/ConnectU)<br>
-5. ⬆️ Pushed 21 commit(s) to [Anirudh-A-V/ConnectU](https://github.com/Anirudh-A-V/ConnectU)<br>
+1. ⬆️ Pushed 4 commit(s) to [Anirudh-A-V/ConnectU](https://github.com/Anirudh-A-V/ConnectU)<br>
+2. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/ConnectU](https://github.com/Anirudh-A-V/ConnectU)<br>
+3. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/ConnectU](https://github.com/Anirudh-A-V/ConnectU)<br>
+4. ⬆️ Pushed 5 commit(s) to [Anirudh-A-V/ConnectU](https://github.com/Anirudh-A-V/ConnectU)<br>
+5. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/ConnectU](https://github.com/Anirudh-A-V/ConnectU)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: March 17th, 2023, 02:07 AM
+Last Updated: March 17th, 2023, 02:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
