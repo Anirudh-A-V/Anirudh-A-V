@@ -66,13 +66,13 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/ConnectU](https://github.com/Anirudh-A-V/ConnectU)<br>
 2. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/ConnectU](https://github.com/Anirudh-A-V/ConnectU)<br>
-3. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/ConnectU](https://github.com/Anirudh-A-V/ConnectU)<br>
+3. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/ConnectU](https://github.com/Anirudh-A-V/ConnectU)<br>
 4. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/ConnectU](https://github.com/Anirudh-A-V/ConnectU)<br>
 5. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/ConnectU](https://github.com/Anirudh-A-V/ConnectU)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: March 20th, 2023, 05:06 PM
+Last Updated: March 20th, 2023, 06:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
