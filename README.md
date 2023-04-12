@@ -64,15 +64,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/CodeViewX](https://github.com/Anirudh-A-V/CodeViewX)<br>
-2. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/CodeViewX](https://github.com/Anirudh-A-V/CodeViewX)<br>
-3. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/CodeViewX](https://github.com/Anirudh-A-V/CodeViewX)<br>
-4. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/CodeViewX](https://github.com/Anirudh-A-V/CodeViewX)<br>
+1. ⭐ Starred [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi)<br>
+2. ⭐ Starred [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT)<br>
+3. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/CodeViewX](https://github.com/Anirudh-A-V/CodeViewX)<br>
+4. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/CodeViewX](https://github.com/Anirudh-A-V/CodeViewX)<br>
 5. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/CodeViewX](https://github.com/Anirudh-A-V/CodeViewX)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: April 12th, 2023, 10:43 PM
+Last Updated: April 12th, 2023, 11:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
