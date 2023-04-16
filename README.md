@@ -64,15 +64,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
-2. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/ConnectU](https://github.com/Anirudh-A-V/ConnectU)<br>
-3. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/CodeViewX](https://github.com/Anirudh-A-V/CodeViewX)<br>
-4. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/CodeViewX](https://github.com/Anirudh-A-V/CodeViewX)<br>
-5. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/CodeViewX](https://github.com/Anirudh-A-V/CodeViewX)<br>
+1. ⬆️ Pushed 3 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
+2. 🎉 Merged PR [#83](https://github.com/Anirudh-A-V/Dynamic_Portfolio/pull/83) in [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
+3. ⬆️ Pushed 31 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
+4. 💪 Opened PR [#83](https://github.com/Anirudh-A-V/Dynamic_Portfolio/pull/83) in [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
+5. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: April 16th, 2023, 04:06 PM
+Last Updated: April 16th, 2023, 04:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
