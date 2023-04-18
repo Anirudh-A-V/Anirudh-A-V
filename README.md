@@ -64,15 +64,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
-2. ⬆️ Pushed 3 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
-3. 🎉 Merged PR [#83](https://github.com/Anirudh-A-V/Dynamic_Portfolio/pull/83) in [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
-4. ⬆️ Pushed 31 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
-5. 💪 Opened PR [#83](https://github.com/Anirudh-A-V/Dynamic_Portfolio/pull/83) in [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
+1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/photo-album](https://github.com/Anirudh-A-V/photo-album)<br>
+2. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/MERN-to-do-list](https://github.com/Anirudh-A-V/MERN-to-do-list)<br>
+3. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
+4. ⬆️ Pushed 3 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
+5. 🎉 Merged PR [#83](https://github.com/Anirudh-A-V/Dynamic_Portfolio/pull/83) in [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: April 18th, 2023, 12:08 PM
+Last Updated: April 18th, 2023, 12:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
