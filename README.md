@@ -64,15 +64,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 82 commit(s) to [Anirudh-A-V/WebCon-2023](https://github.com/Anirudh-A-V/WebCon-2023)<br>
-2. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
+1. ⭐ Starred [suryan-s/Certificato](https://github.com/suryan-s/Certificato)<br>
+2. ⬆️ Pushed 82 commit(s) to [Anirudh-A-V/WebCon-2023](https://github.com/Anirudh-A-V/WebCon-2023)<br>
 3. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
-4. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/MERN-to-do-list](https://github.com/Anirudh-A-V/MERN-to-do-list)<br>
-5. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
+4. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
+5. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/MERN-to-do-list](https://github.com/Anirudh-A-V/MERN-to-do-list)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: April 28th, 2023, 03:46 PM
+Last Updated: April 28th, 2023, 04:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
