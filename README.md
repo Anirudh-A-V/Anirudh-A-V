@@ -66,13 +66,13 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/tgh-internship-task](https://github.com/Anirudh-A-V/tgh-internship-task)<br>
 2. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/tgh-internship-task](https://github.com/Anirudh-A-V/tgh-internship-task)<br>
-3. 📔 Created new repository [Anirudh-A-V/tgh-internship-task](https://github.com/Anirudh-A-V/tgh-internship-task)<br>
-4. ⭐ Starred [GameGodS3/DropPoint](https://github.com/GameGodS3/DropPoint)<br>
-5. ⭐ Starred [suryan-s/Certificato](https://github.com/suryan-s/Certificato)<br>
+3. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/tgh-internship-task](https://github.com/Anirudh-A-V/tgh-internship-task)<br>
+4. 📔 Created new repository [Anirudh-A-V/tgh-internship-task](https://github.com/Anirudh-A-V/tgh-internship-task)<br>
+5. ⭐ Starred [GameGodS3/DropPoint](https://github.com/GameGodS3/DropPoint)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: April 30th, 2023, 11:49 AM
+Last Updated: April 30th, 2023, 12:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
