@@ -64,15 +64,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/saturday-hack-night](https://github.com/Anirudh-A-V/saturday-hack-night)<br>
-2. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/saturday-hack-night](https://github.com/Anirudh-A-V/saturday-hack-night)<br>
-3. 🤝 Became collaborator on [Anirudh-A-V/saturday-hack-night](https://github.com/Anirudh-A-V/saturday-hack-night)<br>
-4. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/saturday-hack-night](https://github.com/Anirudh-A-V/saturday-hack-night)<br>
+1. 🤝 Became collaborator on [IEDC-CET/IEDC-website](https://github.com/IEDC-CET/IEDC-website)<br>
+2. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/saturday-hack-night](https://github.com/Anirudh-A-V/saturday-hack-night)<br>
+3. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/saturday-hack-night](https://github.com/Anirudh-A-V/saturday-hack-night)<br>
+4. 🤝 Became collaborator on [Anirudh-A-V/saturday-hack-night](https://github.com/Anirudh-A-V/saturday-hack-night)<br>
 5. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/saturday-hack-night](https://github.com/Anirudh-A-V/saturday-hack-night)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: May 15th, 2023, 02:06 PM
+Last Updated: May 15th, 2023, 02:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
