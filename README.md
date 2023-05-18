@@ -64,15 +64,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)<br>
-2. ⬆️ Pushed 20 commit(s) to [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)<br>
-3. 🤝 Became collaborator on [IEDC-CET/IEDC-website](https://github.com/IEDC-CET/IEDC-website)<br>
-4. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/saturday-hack-night](https://github.com/Anirudh-A-V/saturday-hack-night)<br>
-5. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/saturday-hack-night](https://github.com/Anirudh-A-V/saturday-hack-night)<br>
+1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/tgh-internship-task](https://github.com/Anirudh-A-V/tgh-internship-task)<br>
+2. 🤝 Became collaborator on [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)<br>
+3. ⬆️ Pushed 20 commit(s) to [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)<br>
+4. 🤝 Became collaborator on [IEDC-CET/IEDC-website](https://github.com/IEDC-CET/IEDC-website)<br>
+5. ⬆️ Pushed 2 commit(s) to [Anirudh-A-V/saturday-hack-night](https://github.com/Anirudh-A-V/saturday-hack-night)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: May 18th, 2023, 12:07 PM
+Last Updated: May 18th, 2023, 12:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
