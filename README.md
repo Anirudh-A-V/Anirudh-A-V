@@ -64,15 +64,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Roshan-R/Cherava](https://github.com/Roshan-R/Cherava)<br>
-2. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/tgh-internship-task](https://github.com/Anirudh-A-V/tgh-internship-task)<br>
-3. 🤝 Became collaborator on [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)<br>
-4. ⬆️ Pushed 20 commit(s) to [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)<br>
-5. 🤝 Became collaborator on [IEDC-CET/IEDC-website](https://github.com/IEDC-CET/IEDC-website)<br>
+1. 🤝 Became collaborator on [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)<br>
+2. ⭐ Starred [Roshan-R/Cherava](https://github.com/Roshan-R/Cherava)<br>
+3. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/tgh-internship-task](https://github.com/Anirudh-A-V/tgh-internship-task)<br>
+4. 🤝 Became collaborator on [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)<br>
+5. ⬆️ Pushed 20 commit(s) to [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: June 11th, 2023, 04:07 PM
+Last Updated: June 11th, 2023, 04:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
