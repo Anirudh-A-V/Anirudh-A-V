@@ -67,12 +67,12 @@
 1. 🤝 Became collaborator on [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)<br>
 2. 🤝 Became collaborator on [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)<br>
 3. 🤝 Became collaborator on [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)<br>
-4. ⭐ Starred [Roshan-R/Cherava](https://github.com/Roshan-R/Cherava)<br>
-5. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/tgh-internship-task](https://github.com/Anirudh-A-V/tgh-internship-task)<br>
+4. 🤝 Became collaborator on [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)<br>
+5. ⭐ Starred [Roshan-R/Cherava](https://github.com/Roshan-R/Cherava)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: June 14th, 2023, 01:06 AM
+Last Updated: June 14th, 2023, 01:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
