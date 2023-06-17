@@ -64,15 +64,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)<br>
-2. 🤝 Became collaborator on [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)<br>
+1. ❌ Closed PR [#2](https://github.com/Anirudh-A-V/CrisisConnect/pull/2) in [Anirudh-A-V/CrisisConnect](https://github.com/Anirudh-A-V/CrisisConnect)<br>
+2. 💪 Opened PR [#2](https://github.com/Anirudh-A-V/CrisisConnect/pull/2) in [Anirudh-A-V/CrisisConnect](https://github.com/Anirudh-A-V/CrisisConnect)<br>
 3. 🤝 Became collaborator on [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)<br>
 4. 🤝 Became collaborator on [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)<br>
-5. ⭐ Starred [Roshan-R/Cherava](https://github.com/Roshan-R/Cherava)<br>
+5. 🤝 Became collaborator on [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: June 17th, 2023, 09:49 PM
+Last Updated: June 17th, 2023, 10:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
