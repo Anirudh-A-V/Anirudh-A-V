@@ -64,15 +64,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/CrisisConnect](https://github.com/Anirudh-A-V/CrisisConnect)<br>
-2. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/CrisisConnect](https://github.com/Anirudh-A-V/CrisisConnect)<br>
-3. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/CrisisConnect](https://github.com/Anirudh-A-V/CrisisConnect)<br>
-4. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/CrisisConnect](https://github.com/Anirudh-A-V/CrisisConnect)<br>
+1. ❌ Closed PR [#1](https://github.com/Anirudh-A-V/CrisisConnect/pull/1) in [Anirudh-A-V/CrisisConnect](https://github.com/Anirudh-A-V/CrisisConnect)<br>
+2. ⬆️ Pushed 8 commit(s) to [Anirudh-A-V/CrisisConnect](https://github.com/Anirudh-A-V/CrisisConnect)<br>
+3. 🎉 Merged PR [#3](https://github.com/Anirudh-A-V/CrisisConnect/pull/3) in [Anirudh-A-V/CrisisConnect](https://github.com/Anirudh-A-V/CrisisConnect)<br>
+4. 💪 Opened PR [#3](https://github.com/Anirudh-A-V/CrisisConnect/pull/3) in [Anirudh-A-V/CrisisConnect](https://github.com/Anirudh-A-V/CrisisConnect)<br>
 5. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/CrisisConnect](https://github.com/Anirudh-A-V/CrisisConnect)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: June 18th, 2023, 05:06 PM
+Last Updated: June 18th, 2023, 05:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
