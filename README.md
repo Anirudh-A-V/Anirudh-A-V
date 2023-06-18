@@ -64,15 +64,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#2](https://github.com/Anirudh-A-V/CrisisConnect/pull/2) in [Anirudh-A-V/CrisisConnect](https://github.com/Anirudh-A-V/CrisisConnect)<br>
-2. 💪 Opened PR [#2](https://github.com/Anirudh-A-V/CrisisConnect/pull/2) in [Anirudh-A-V/CrisisConnect](https://github.com/Anirudh-A-V/CrisisConnect)<br>
-3. 🤝 Became collaborator on [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)<br>
+1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/CrisisConnect](https://github.com/Anirudh-A-V/CrisisConnect)<br>
+2. ❌ Closed PR [#2](https://github.com/Anirudh-A-V/CrisisConnect/pull/2) in [Anirudh-A-V/CrisisConnect](https://github.com/Anirudh-A-V/CrisisConnect)<br>
+3. 💪 Opened PR [#2](https://github.com/Anirudh-A-V/CrisisConnect/pull/2) in [Anirudh-A-V/CrisisConnect](https://github.com/Anirudh-A-V/CrisisConnect)<br>
 4. 🤝 Became collaborator on [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)<br>
 5. 🤝 Became collaborator on [Anirudh-A-V/IEDC-website](https://github.com/Anirudh-A-V/IEDC-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: June 18th, 2023, 11:49 AM
+Last Updated: June 18th, 2023, 12:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
