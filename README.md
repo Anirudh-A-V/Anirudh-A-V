@@ -65,15 +65,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)<br>
-2. ⭐ Starred [donjosemathew/food-supplychain-Solidity](https://github.com/donjosemathew/food-supplychain-Solidity)<br>
-3. ⬆️ Pushed 1 commit(s) to [chit-net/.github](https://github.com/chit-net/.github)<br>
-4. 📔 Created new repository [chit-net/.github](https://github.com/chit-net/.github)<br>
-5. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/CrisisConnect](https://github.com/Anirudh-A-V/CrisisConnect)<br>
+1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
+2. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Anirudh-A-V](https://github.com/Anirudh-A-V/Anirudh-A-V)<br>
+3. ⭐ Starred [donjosemathew/food-supplychain-Solidity](https://github.com/donjosemathew/food-supplychain-Solidity)<br>
+4. ⬆️ Pushed 1 commit(s) to [chit-net/.github](https://github.com/chit-net/.github)<br>
+5. 📔 Created new repository [chit-net/.github](https://github.com/chit-net/.github)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: July 8th, 2023, 05:06 PM
+Last Updated: July 8th, 2023, 06:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
