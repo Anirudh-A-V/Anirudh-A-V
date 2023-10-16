@@ -65,15 +65,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Anirudh-A-V/jennie-anime-player](https://github.com/Anirudh-A-V/jennie-anime-player) from [developerrahulofficial/jennie-anime-player](https://github.com/developerrahulofficial/jennie-anime-player)<br>
-2. ⭐ Starred [developerrahulofficial/jennie-anime-player](https://github.com/developerrahulofficial/jennie-anime-player)<br>
-3. ⬆️ Pushed 1 commit(s) to [Govindvr/billgenerator-test](https://github.com/Govindvr/billgenerator-test)<br>
+1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
+2. 🔱 Forked [Anirudh-A-V/jennie-anime-player](https://github.com/Anirudh-A-V/jennie-anime-player) from [developerrahulofficial/jennie-anime-player](https://github.com/developerrahulofficial/jennie-anime-player)<br>
+3. ⭐ Starred [developerrahulofficial/jennie-anime-player](https://github.com/developerrahulofficial/jennie-anime-player)<br>
 4. ⬆️ Pushed 1 commit(s) to [Govindvr/billgenerator-test](https://github.com/Govindvr/billgenerator-test)<br>
-5. ⬆️ Pushed 1 commit(s) to [Alfe3n/cet-film-society-website-main](https://github.com/Alfe3n/cet-film-society-website-main)<br>
+5. ⬆️ Pushed 1 commit(s) to [Govindvr/billgenerator-test](https://github.com/Govindvr/billgenerator-test)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: October 16th, 2023, 06:02 PM
+Last Updated: October 16th, 2023, 06:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
