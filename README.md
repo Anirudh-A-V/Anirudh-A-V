@@ -65,15 +65,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/cs-association.github.io](https://github.com/Anirudh-A-V/cs-association.github.io)<br>
-2. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
-3. 🔱 Forked [Anirudh-A-V/jennie-anime-player](https://github.com/Anirudh-A-V/jennie-anime-player) from [developerrahulofficial/jennie-anime-player](https://github.com/developerrahulofficial/jennie-anime-player)<br>
-4. ⭐ Starred [developerrahulofficial/jennie-anime-player](https://github.com/developerrahulofficial/jennie-anime-player)<br>
-5. ⬆️ Pushed 1 commit(s) to [Govindvr/billgenerator-test](https://github.com/Govindvr/billgenerator-test)<br>
+1. 🔱 Forked [Anirudh-A-V/care_fe](https://github.com/Anirudh-A-V/care_fe) from [coronasafe/care_fe](https://github.com/coronasafe/care_fe)<br>
+2. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/cs-association.github.io](https://github.com/Anirudh-A-V/cs-association.github.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
+4. 🔱 Forked [Anirudh-A-V/jennie-anime-player](https://github.com/Anirudh-A-V/jennie-anime-player) from [developerrahulofficial/jennie-anime-player](https://github.com/developerrahulofficial/jennie-anime-player)<br>
+5. ⭐ Starred [developerrahulofficial/jennie-anime-player](https://github.com/developerrahulofficial/jennie-anime-player)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: November 13th, 2023, 01:07 PM
+Last Updated: November 13th, 2023, 01:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
