@@ -65,15 +65,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Anirudh-A-V/care_fe](https://github.com/Anirudh-A-V/care_fe) from [coronasafe/care_fe](https://github.com/coronasafe/care_fe)<br>
-2. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/cs-association.github.io](https://github.com/Anirudh-A-V/cs-association.github.io)<br>
-3. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
-4. 🔱 Forked [Anirudh-A-V/jennie-anime-player](https://github.com/Anirudh-A-V/jennie-anime-player) from [developerrahulofficial/jennie-anime-player](https://github.com/developerrahulofficial/jennie-anime-player)<br>
-5. ⭐ Starred [developerrahulofficial/jennie-anime-player](https://github.com/developerrahulofficial/jennie-anime-player)<br>
+1. ⭐ Starred [codicocodes/speedtyper.dev](https://github.com/codicocodes/speedtyper.dev)<br>
+2. ⭐ Starred [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)<br>
+3. 🔱 Forked [Anirudh-A-V/care_fe](https://github.com/Anirudh-A-V/care_fe) from [coronasafe/care_fe](https://github.com/coronasafe/care_fe)<br>
+4. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/cs-association.github.io](https://github.com/Anirudh-A-V/cs-association.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/Dynamic_Portfolio](https://github.com/Anirudh-A-V/Dynamic_Portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: November 15th, 2023, 11:06 AM
+Last Updated: November 15th, 2023, 11:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
