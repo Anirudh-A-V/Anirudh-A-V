@@ -65,15 +65,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)<br>
-2. ⭐ Starred [codicocodes/speedtyper.dev](https://github.com/codicocodes/speedtyper.dev)<br>
-3. ⭐ Starred [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)<br>
-4. 🔱 Forked [Anirudh-A-V/care_fe](https://github.com/Anirudh-A-V/care_fe) from [coronasafe/care_fe](https://github.com/coronasafe/care_fe)<br>
-5. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/cs-association.github.io](https://github.com/Anirudh-A-V/cs-association.github.io)<br>
+1. ⬆️ Pushed 1 commit(s) to [cjranjana/astrocet-website](https://github.com/cjranjana/astrocet-website)<br>
+2. ⭐ Starred [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)<br>
+3. ⭐ Starred [codicocodes/speedtyper.dev](https://github.com/codicocodes/speedtyper.dev)<br>
+4. ⭐ Starred [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)<br>
+5. 🔱 Forked [Anirudh-A-V/care_fe](https://github.com/Anirudh-A-V/care_fe) from [coronasafe/care_fe](https://github.com/coronasafe/care_fe)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: November 26th, 2023, 10:43 PM
+Last Updated: November 26th, 2023, 11:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
