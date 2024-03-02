@@ -65,13 +65,14 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Anirudh-A-V/binge](https://github.com/Anirudh-A-V/binge)<br>
-2. 📔 Created new repository [Anirudh-A-V/FlappyBird](https://github.com/Anirudh-A-V/FlappyBird)<br>
-3. ⭐ Starred [rahulsunil2/VirtualAssistantDemo](https://github.com/rahulsunil2/VirtualAssistantDemo)<br>
+1. 📔 Created new repository [Anirudh-A-V/LegalQuest](https://github.com/Anirudh-A-V/LegalQuest)<br>
+2. 📔 Created new repository [Anirudh-A-V/binge](https://github.com/Anirudh-A-V/binge)<br>
+3. 📔 Created new repository [Anirudh-A-V/FlappyBird](https://github.com/Anirudh-A-V/FlappyBird)<br>
+4. ⭐ Starred [rahulsunil2/VirtualAssistantDemo](https://github.com/rahulsunil2/VirtualAssistantDemo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: March 2nd, 2024, 06:45 PM
+Last Updated: March 2nd, 2024, 07:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
