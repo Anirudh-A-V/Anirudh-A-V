@@ -65,15 +65,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/LegalQuest](https://github.com/Anirudh-A-V/LegalQuest)<br>
-2. ⬆️ Pushed 3 commit(s) to [Anirudh-A-V/LegalQuest](https://github.com/Anirudh-A-V/LegalQuest)<br>
-3. 🤝 Became collaborator on [Anirudh-A-V/LegalQuest](https://github.com/Anirudh-A-V/LegalQuest)<br>
-4. 📔 Created new repository [Anirudh-A-V/LegalQuest](https://github.com/Anirudh-A-V/LegalQuest)<br>
-5. 📔 Created new repository [Anirudh-A-V/binge](https://github.com/Anirudh-A-V/binge)<br>
+1. 📔 Created new repository [Anirudh-A-V/chitnet](https://github.com/Anirudh-A-V/chitnet)<br>
+2. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/LegalQuest](https://github.com/Anirudh-A-V/LegalQuest)<br>
+3. ⬆️ Pushed 3 commit(s) to [Anirudh-A-V/LegalQuest](https://github.com/Anirudh-A-V/LegalQuest)<br>
+4. 🤝 Became collaborator on [Anirudh-A-V/LegalQuest](https://github.com/Anirudh-A-V/LegalQuest)<br>
+5. 📔 Created new repository [Anirudh-A-V/LegalQuest](https://github.com/Anirudh-A-V/LegalQuest)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: April 17th, 2024, 12:06 AM
+Last Updated: April 17th, 2024, 12:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
