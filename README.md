@@ -65,15 +65,15 @@
 
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
-2. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/chitnet](https://github.com/Anirudh-A-V/chitnet)<br>
+1. 🤝 Became collaborator on [Anirudh-A-V/dotslash-official](https://github.com/Anirudh-A-V/dotslash-official)<br>
+2. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
 3. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/chitnet](https://github.com/Anirudh-A-V/chitnet)<br>
 4. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/chitnet](https://github.com/Anirudh-A-V/chitnet)<br>
 5. ⬆️ Pushed 1 commit(s) to [Anirudh-A-V/chitnet](https://github.com/Anirudh-A-V/chitnet)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: June 18th, 2024, 10:10 PM
+Last Updated: June 18th, 2024, 10:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
