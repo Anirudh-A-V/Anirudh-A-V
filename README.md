@@ -66,11 +66,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. 🤝 Became collaborator on [Anirudh-A-V/dotslash-official](https://github.com/Anirudh-A-V/dotslash-official)<br>
-2. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: September 9th, 2024, 05:08 AM
+Last Updated: September 9th, 2024, 06:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
