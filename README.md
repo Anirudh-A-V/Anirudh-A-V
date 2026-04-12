@@ -4,12 +4,12 @@
 <h2 align="center"> 📖 About me</h2>
 <div align="center">
 
-💻 I'm a MERN Stack Developer<br>
-🎨 I'm a Python Enthusiast<br>
-💞️ Looking to collaborate on GitHub and Hackathons<br>
-🎓 I'm a Computer Science student (graduating in October 2024)<br>
-📄 Discover my qualifications and experience in detail in my [resume](https://tinyurl.com/anirudh-a-v-res)<br>
-🌐 You can see some of my projects on [my portfolio](https://iamanirudhav.vercel.app/)
+🚀 **Software Engineer at Amadeus** | Search, Shopping & Pricing<br>
+🏗️ Working on high-concurrency systems and global tax modules<br>
+⚙️ Focused on **Distributed Systems**, scalability, and performance optimization<br>
+🎨 Python & Backend enthusiast with a penchant for clean architecture<br>
+🏍️ Amateur fermenter and motorcycle tourer in my downtime<br>
+📄 Discover my technical background in detail in my [resume](https://iamanirudhav.vercel.app/resume)<br>
 <br>
 </div>
 
@@ -28,20 +28,20 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,tailwind,vite,mongodb,vercel,js,html,css,sass,bootstrap,py,django,firebase,materialui,c,java,git,github,heroku,netlify,mysql,postgres,sqlite,gcp,linux,figma,vscode,md,powershell&perline=8" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,py,js,mongodb,postgres,mysql,redis,kafka,docker,kubernetes,gcp,linux,git,github,vscode&perline=8" />
   </a>
 </p>
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
 <h3>:man_technologist: My Wakatime</h3>
 <p align="center">
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Anirudh_A_V&layout=compact&border_radius=5&theme=default" />
   </a>
 </p>
-</div>
+</div> -->
 
 <br>
 
@@ -50,12 +50,14 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/anirudh-a-v/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:anirudh.av02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/anirudh_av02" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://x.com/anirudh_av02" target="_blank">
+  <img alt="X Follow" title="X Follow" src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
   <!--- <a href="#"><img src="https://komarev.com/ghpvc/?username=Anirudh-A-V&style=for-the-badge"></a> --->
   <!---
   <a href=""><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>  --->
-  <a href="https://linktr.ee/anirudh.av02" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B.svg?style=for-the-badge&logo=Linktree&logoColor=white"></a>
+  <!-- <a href="https://linktr.ee/anirudh.av02" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B.svg?style=for-the-badge&logo=Linktree&logoColor=white"></a> -->
 
 
 </p>
