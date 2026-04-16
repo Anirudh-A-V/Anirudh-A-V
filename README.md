@@ -16,7 +16,7 @@
 <h3 align="center">:chart_with_upwards_trend: My Stats</h3>
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anirudh-A-V"/>
+    <img src="https://github-readme-streak-stats-seven-iota.vercel.app/?user=Anirudh-A-V"/>
   </a>
 </p>
 
